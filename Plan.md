@@ -45,3 +45,20 @@
 | 06.01. - 12.01. | Fertigstellung Paper              | schreiben                                     |
 | 13.01. - 19.01. | optionale Verlängerungswoche      | --------------------------------------------- |
 
+
+
+
+
+18.11. - 24.11.
+
+| Ziel                        | Aufgaben   |
+| --------------------------- | ---------- |
+| Verständnis ReluPlex Regeln |            |
+| Zeitplan vervollständigen   | Konstantin |
+|                             |            |
+|                             |            |
+
+
+
+Sonntag: 15Uhr
+
