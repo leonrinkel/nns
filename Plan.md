@@ -58,7 +58,18 @@
 |                             |            |
 |                             |            |
 
+23.11. - 29.11.
 
+Fragen an Konstantin:
+- [ ] Wie der Vortrag sein soll? Auf welchen Niv?
+- [ ] Wie stellt er sich Inhalte "Paper" vor? Anwendbarkeit dokumentieren, möglicherweise Implementierung?
+- [ ] Ob er Implementierung Akt.Funkt. für sinvoll hält oder zu viel? Ob er Ideen hat für Akt.Funkt. hat?
 
-Sonntag: 15Uhr
+Ziele für die nächsten Woche:
+- [ ] Morgen Ziel genau festlegen
+- [ ] Zeitplan festlegen
+- [ ] "Paper" Grundgerüst Theorieteil parallel schreiben
+- [ ] Bisschen in den Beweise reingucken, aber eher nebensächlich
+- [ ] Anwendungsmöglichkeiten nochmal prüfen, Rückkopplung, Convolution?
+- [ ] Implementierung mal reinschauen, aber eher sehr nebensächlich
 
