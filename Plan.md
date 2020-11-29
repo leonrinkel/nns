@@ -60,13 +60,9 @@
 
 - [ ] Zeitplan festlegen
 - [ ] Beginn Projektbericht Reluplex
+  - warum nn endliches System lin Ungleichungen
+  - aufstellen ungleichungen mit Akt.funktion
 - [ ] Beweis korrekt & vollständig - Überblick
-- [ ] Anwendungsmöglichkeiten
-  - [ ] CNN
-  - [ ] Rückkopplung
-- [ ] Implementation
-  - [ ] Aufbau anderer Constraints
-  - [ ] Zeitaufwand abschätzen
 
 
 
@@ -80,13 +76,11 @@
 - [ ] Projektbericht
   - [ ] Reluplex Algorithmus
     - [ ] Anwendbarkeit Simplex
-    - [ ] Ablauf
     - [ ] Modifikation Simplex Reluplex
   - [ ] Marabou Tool
     - [ ] Ablauf
     - [ ] Anwendbarkeit
 - [ ] Implementierung (wenn realistisch, sonst property netz)
-  - [ ] Aktivierungsfunktion festlegen
   - [ ] plan machen
 
 
