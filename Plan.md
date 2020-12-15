@@ -118,7 +118,10 @@
 - [ ] Property Netz
   - [ ] Netz trainieren
   - [ ] verifizieren
-- [ ] reluplex laufzeit, skalierbarkeit mit parametern nachlesen/bestimmen
+- [ ] projektbericht kapitel adversarial netz schreiben
+  - [ ] theorie lokale/globale robustheit
+  - [ ] wie mit reluplex robustheit gezeigt werden kann bzw. dass gegenbeispiel adversarial example ist
+  - [ ] anwendbarkeit, grenzen durch laufzeit, großer eingaberaum, verschiedene parameter epsilon, delta
 - [ ] projektbericht redundanz beheben mit wie relu in relu constraints dargestellt wird
 - [ ] projektbericht kapitel simplex zu reluplex...
   - [ ] ...anmerkungen umsetzen
@@ -135,10 +138,7 @@
 - [ ] Property Netz
   - [ ] Netz ggf anpassen
   - [ ] Auswertung
-- [ ] projektbericht kapitel adversarial netz schreiben
-  - [ ] theorie lokale/globale robustheit
-  - [ ] wie mit reluplex robustheit gezeigt werden kann bzw. dass gegenbeispiel adversarial example ist
-  - [ ] anwendbarkeit, grenzen durch laufzeit, großer eingaberaum, verschiedene parameter epsilon, delta
+- [ ] reluplex laufzeit, skalierbarkeit mit parametern nachlesen/bestimmen
 
 30.12. - 05.01.
 
