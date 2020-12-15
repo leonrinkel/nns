@@ -70,19 +70,19 @@
 
 ------
 
-- [ ] Termin Konstantin
-  - [ ] Einladung
-  - [ ] Fragen sammeln
+- [x] Termin Konstantin
+  - [x] Einladung
+  - [x] Fragen sammeln
 - [ ] Projektbericht
   - [ ] Reluplex Algorithmus
     - [ ] Anwendbarkeit Simplex
-    - [ ] Modifikation Simplex Reluplex
+    - [-] Modifikation Simplex Reluplex (erste version geschrieben, muss überarbeitet werden)
   - [ ] Marabou Tool
     - [ ] Ablauf
     - [ ] Anwendbarkeit
-- [ ] Implementierung (wenn realistisch, sonst property netz)
-  - [ ] plan machen
-
+- [ ] (Implementierung)
+  - [x] (trick 17 implementierung durch equivalentes umformen)
+  - [ ] (plan richtige implementierung, eher nicht)
 
 
  09.12. - 15.12.
@@ -98,9 +98,11 @@
 - [ ] Property Netz
   - [ ] Datensatz aussuchen
   - [ ] properties aufstellen
-- [ ] Implementierung
-  - [ ] Header 
-
+- [-] mnist adversarial netz
+  - [x] mit reluplex adversarial examples generieren und netz damit trainieren
+  - [x] zeigen dass examples falsch klassifiziert werden und dass durch training accuracy steigt
+  - [ ] mit reluplex zeigen dass für bestimmte parameter das netz robust ist
+    - [ ] könnte zu aufwändig sein, vlt. mit kleinerem netz, kleinerem datensatz, anderen parametern delta, epsilon probieren
 
 
 16.12. - 22.12.
@@ -112,67 +114,67 @@
     - [ ] Aufstellen von properties
   - [ ] Kapitel Netz 1
     - [ ] Wahl der properties begründen
-- [ ] Implementierung
+- [ ] (Implementierung)
 - [ ] Property Netz
   - [ ] Netz trainieren
   - [ ] verifizieren
-- [ ] Adversarial Netz
-  - [ ] Datensatz aussuchen
-
-
+- [ ] reluplex laufzeit, skalierbarkeit mit parametern nachlesen/bestimmen
+- [ ] projektbericht redundanz beheben mit wie relu in relu constraints dargestellt wird
+- [ ] projektbericht kapitel simplex zu reluplex...
+  - [ ] ...anmerkungen umsetzen
+  - [ ] ...equations schreiben
 
 23.12. - 29.12.
 
 ------
 
 - [ ] Projektbericht
-
   - [ ] properties
-    - [ ] 
-  - [ ] Adversarial examples
-    - [ ] Wahl der Distanz
-    - [ ] 
-
-- [ ] Implementierung
-
+    - [ ]
+- [ ] (Implementierung)
 - [ ] Property Netz
-
   - [ ] Netz ggf anpassen
   - [ ] Auswertung
-
-- [ ] Adversarial Netz
-
-  - [ ] Netz trainieren
-
-  - [ ] adversarial examples
-
-    
-
-    
+- [ ] projektbericht kapitel adversarial netz schreiben
+  - [ ] theorie lokale/globale robustheit
+  - [ ] wie mit reluplex robustheit gezeigt werden kann bzw. dass gegenbeispiel adversarial example ist
+  - [ ] anwendbarkeit, grenzen durch laufzeit, großer eingaberaum, verschiedene parameter epsilon, delta
 
 30.12. - 05.01.
 
 ------
 
 - [ ] Projektbericht
-- [ ] Implementierung
-- [ ] Adversarial Netz
-
+- [ ] (Implementierung)
 
 
 06.01. - 12.01.
 
 ------
 
+- [ ] 07.01. 13:00 Termin mit Konstantin
 - [ ] Projektbericht
   - [ ] Grafiken
   - [ ] Neurips kontrollieren
   - [ ] jeweils Korrektur lesen
 - [ ] Präsentation
 
+13.01. - 19.01.
 
+------
 
-13.01. - 19.01. (ggf zusätzliche Woche)
+- [ ] Präsentation
+
+19.01. - 26.01.
+
+------
+
+- [ ] Präsentation
+
+------
+
+Präsentation am 27.01.
+2-3 Wochen später Abgabe Bericht
 
 ------
 
